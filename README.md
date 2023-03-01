@@ -1,7 +1,8 @@
 ## simplesmente Mateus 
 
-- 🎒 Cursando Análise e Desenvolvimento de sistemas (Etec de Guarulhos)
-- 🎂 18 anos
+- Formado no curso técnico de Análise e desenvolvimento de sistemas pela Etec de Guarulhos.
+- Cursando BC&T(Bacharelado Interdisciplinar em Ciência e Tecnologia) pela UFABC.
+
 
 ##
 
