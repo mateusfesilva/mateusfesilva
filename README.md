@@ -1,8 +1,7 @@
 ##  
 
-• Formado em Análise e desenvolvimento de sistemas pela Etec de Guarulhos (técnico).
-
-• Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFABC.
+- Formado no curso técnico de análise e desenvolvimento de sistemas pela Etec de Guarulhos.
+- Graduando do curso de análise e desenvolvimento de sistemas no IFSP.
 
 
 ##
