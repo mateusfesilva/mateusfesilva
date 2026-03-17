@@ -1,7 +1,8 @@
 ##  
 
-- Formado no curso técnico de análise e desenvolvimento de sistemas pela Etec de Guarulhos.
-- Graduando do curso de análise e desenvolvimento de sistemas no IFSP.
+- Formado no curso técnico de análise e desenvolvimento de sistemas pela Etec de Guarulhos
+
+- Cursando análise e desenvolvimento de sistemas pelo IFSP campus São Paulo.
 
 
 ##
